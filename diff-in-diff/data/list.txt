@@ -1,0 +1,1 @@
+njmin data from David Card's website: https://davidcard.berkeley.edu/data_sets.html
