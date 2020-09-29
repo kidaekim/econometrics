@@ -1,6 +1,6 @@
 # econometrics
 
-This repository includes the use cases of some handy econometrics techniques in Python and R. 
+This repository includes the use cases of some handy econometrics techniques.
 
 Data sets used:
 
