@@ -1,0 +1,3 @@
+Birthweight data is from Prof. Roger Koenker's wesite. 
+
+http://www.econ.uiuc.edu/~roger/research/intro/intro.html
