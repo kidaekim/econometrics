@@ -1,1 +1,3 @@
-dd
+Data and .do files can be found on Prof. Daron Acemoglu's website: https://economics.mit.edu/faculty/acemoglu/data/ajr2001
+
+This exercise is the reproduction of paper AJR(2001), cited above. 
