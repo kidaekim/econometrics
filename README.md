@@ -2,6 +2,8 @@
 
 This repository includes the use cases of some handy econometrics techniques.
 
+I have only used these data sets to practice and reproduce some results. 
+
 Data sets used:
 
 New Jersey minimum wage survey: https://davidcard.berkeley.edu/data_sets.html
