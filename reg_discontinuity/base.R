@@ -1,7 +1,6 @@
 # A few lines from rddtools package.
 # I will get around this if I find a suitable data set.
 # ==========
-
 library(rddtools)
 
 data(house)
